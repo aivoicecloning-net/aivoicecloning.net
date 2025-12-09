@@ -20,7 +20,7 @@ AI Voice Cloning (aivoicecloning.net) is a cutting-edge platform that uses advan
 
 🚀 How to Use
 
-🌐 **Visit the Platform**: Go to www.aivoicecloning.net and open our website in your browser.
+🌐 **Visit the Platform**: Go to aivoicecloning.net and open our website in your browser.
 
 🎤 **Clone Your Voice**: 
    - Upload an audio file (10 seconds to 5 minutes) or record directly in your browser
